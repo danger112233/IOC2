@@ -1,0 +1,7 @@
+S.No,Vulnerabilities,Affected Product,CVE,CVSS Score,Severity
+1,IBM Engineering Systems Flaw Let Attackers Bypass Security Restrictions ,IBM Engineering Systems Design Rhapsody RMM,CVE-2024-41779,9.8,High
+2,GitLab Flaw Allows Privilege Escalation ,GitLab,CVE-2024-8114 | CVE-2024-8237 | CVE-2024-11669 | CVE-2024-8177 | CVE-2024-11828 | CVE-2024-11668,8.2 | 6.5 | 6.5 | 5.3 | 4.3 | 4.2,High/Medium
+3,Critical Flaw in ProjectSend Under Active Exploitation Against Public-Facing Servers ,ProjectSend,CVE-2024-11680,9.8,High
+4,NVIDIA UFM Flaw Enables Privilege Escalation ,NVIDIA’s Unified Fabric Manager,CVE-2024-0130,8.8,High
+5,New Windows 11 Integer Overflow Vulnerability Lets Attackers Elevate Privileges ,Microsoft Windows,-,-,High
+6,Microsoft re-releases Exchange updates after fixing mail delivery ,Microsoft Exchange Server,-,-,Medium
