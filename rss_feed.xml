@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Security News</title>
+<link>https://example.com/blog/</link>
+<description>Recent security news and updates</description>
+<generator>Hugo -- gohugo.io</generator>
+<language>en</language>
+<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ivanti warns of maximum severity CSA auth bypass vulnerability</title>
+<link>https://www.bleepingcomputer.com/news/security/ivanti-warns-of-maximum-severity-csa-auth-bypass-vulnerability/</link>
+<pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+<guid>https://www.bleepingcomputer.com/news/security/ivanti-warns-of-maximum-severity-csa-auth-bypass-vulnerability/</guid>
+<description>Ivanti has issued a warning about a critical authentication bypass vulnerability in its CSA that could lead to severe security risks.</description>
+</item>
+<item>
+<title>Black Basta Ransomware Evolves with Email Bombing, QR Codes, and Social Engineering</title>
+<link>https://thehackernews.com/2024/12/black-basta-ransomware-evolves-with.html</link>
+<pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+<guid>https://thehackernews.com/2024/12/black-basta-ransomware-evolves-with.html</guid>
+<description>The Black Basta ransomware group has introduced new tactics, including email bombing, QR codes, and social engineering, to enhance their attacks.</description>
+</item>
+</channel>
+</rss>
