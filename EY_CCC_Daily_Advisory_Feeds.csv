@@ -1,11 +1,2 @@
 Value,Source,EY_Confidence,Confidence,ISP_Domain,lastSeen,Label,Kill Chain Phases,Country_Code
 169.255.72.169,EY_TA,100,0,skytic-telecom.cg,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],CG
-192.253.248.5,EY_TA,100,0,btcloud.ro,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],NL
-193.26.115.178,EY_TA,100,100,as210558.net,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],US
-193.26.115.195,EY_TA,100,0,as210558.net,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],US
-45.125.66.100,EY_TA,100,0,serveroffer.lt,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],LT
-45.135.194.11,EY_TA,100,0,pfcloud.io,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],DE
-45.135.194.32,EY_TA,100,33,pfcloud.io,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],DE
-45.153.34.156,EY_TA,100,0,vmheaven.io,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],NL
-45.88.186.32,EY_TA,100,0,as210558.net,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],US
-45.88.186.85,EY_TA,100,0,as210558.net,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],US
