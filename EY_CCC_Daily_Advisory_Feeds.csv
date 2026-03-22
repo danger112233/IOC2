@@ -26,7 +26,7 @@ Value,Source,EY_Confidence,Confidence,ISP_Domain,lastSeen,Label,Kill Chain Phase
 87.121.79.6,EY_TA,100,0,03ai.org,03/18/26 12:00 AM,"LeakNet Ransomware, Sideloader, C2",[],NL
 87.121.79.25,EY_TA,100,0,03ai.org,03/18/26 12:00 AM,"LeakNet Ransomware, Sideloader, C2",[],NL
 185.221.239.162,EY_TA,100,0,dimit.host,03/18/26 12:00 AM,"Iranian Botnet, Host",[],IR
-173.211.46.22,EY_TA,100,0,iana.org,03/18/26 12:00 AM," PylangGhost RAT, Payload Host, C2",[],US
+173.211.46.22,EY_TA,100,0,iana.org,03/18/26 12:00 AM,"PylangGhost RAT, Payload Host, C2",[],US
 144.172.94.59,EY_TA,100,0,cloudzy.com,03/19/26 12:00 AM,"Interlock Ransomware, C2, Fallback IP",[],US
 199.217.99.121,EY_TA,100,0,blnwx.com,03/19/26 12:00 AM,"Interlock Ransomware, C2, Fallback IP",[],NL
 188.245.41.78,EY_TA,100,0,hetzner.com,03/19/26 12:00 AM,"Interlock Ransomware, C2, Fallback IP",[],DE
