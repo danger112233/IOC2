@@ -1,2 +1,49 @@
 Value,Source,EY_Confidence,Confidence,ISP_Domain,lastSeen,Label,Kill Chain Phases,Country_Code
-169.255.72.169,EY_TA,100,0,skytictelecom.cg,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host",[],CG
+169.255.72.169,EY_TA,100,0,skytic-telecom.cg,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],CG
+192.253.248.5,EY_TA,100,0,btcloud.ro,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],NL
+193.26.115.178,EY_TA,100,100,as210558.net,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],US
+193.26.115.195,EY_TA,100,0,as210558.net,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],US
+45.125.66.100,EY_TA,100,0,serveroffer.lt,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],LT
+45.135.194.11,EY_TA,100,0,pfcloud.io,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],DE
+45.135.194.32,EY_TA,100,33,pfcloud.io,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],DE
+45.153.34.156,EY_TA,100,0,vmheaven.io,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],NL
+45.88.186.32,EY_TA,100,0,as210558.net,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],US
+45.88.186.85,EY_TA,100,0,as210558.net,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],US
+45.94.31.201,EY_TA,100,0,as210558.net,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],NL
+45.94.31.89,EY_TA,100,0,as210558.net,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],NL
+87.121.84.132,EY_TA,100,0,vpsvault.host,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],NL
+87.121.84.31,EY_TA,100,0,vpsvault.host,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],NL
+87.121.84.75,EY_TA,100,0,vpsvault.host,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],NL
+99.241.94.234,EY_TA,100,30,rogers.com,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],CA
+95.216.51.236,EY_TA,100,0,hetzner.com,03/17/26 12:00 AM,"Website Spoofing,Phishing,C2",[],FI
+157.180.40.106,EY_TA,100,0,hetzner.com,03/17/26 12:00 AM,"ARC Stealer,C2,Malware",[],FI
+157.180.88.26,EY_TA,100,0,hetzner.com,03/17/26 12:00 AM,"Konni APT,Payload Host,Exfiltration",[],FI
+96.62.214.5,EY_TA,100,0,brandergroup.net,03/17/26 12:00 AM,"Konni APT,Payload Host,Exfiltration",[],JP
+178.16.54.208,EY_TA,100,0,omegatech.sc,03/17/26 12:00 AM,"Konni APT,Payload Host,Exfiltration",[],NL
+157.20.182.75,EY_TA,100,0,hosterdaddy.com,03/17/26 12:00 AM,"Boggy Serpens Group,Phishing,Server Host",[],NL
+159.198.66.153,EY_TA,100,0,namecheap.com,03/17/26 12:00 AM,"Boggy Serpens Group,Phishing,Server Host",[],US
+144.31.2.161,EY_TA,100,0,h2.nexus,03/18/26 12:00 AM,"LeakNet Ransomware,Sideloader,C2",[],PL
+87.121.79.6,EY_TA,100,0,03ai.org,03/18/26 12:00 AM,"LeakNet Ransomware,Sideloader,C2",[],NL
+87.121.79.25,EY_TA,100,0,03ai.org,03/18/26 12:00 AM,"LeakNet Ransomware,Sideloader,C2",[],NL
+185.221.239.162,EY_TA,100,0,dimit.host,03/18/26 12:00 AM,"Iranian Botnet,Host",[],IR
+173.211.46.22,EY_TA,100,0,iana.org,03/18/26 12:00 AM,"PylangGhost RAT,Payload Host,C2",[],US
+144.172.94.59,EY_TA,100,0,cloudzy.com,03/19/26 12:00 AM,"Interlock Ransomware,C2,Fallback IP",[],US
+199.217.99.121,EY_TA,100,0,blnwx.com,03/19/26 12:00 AM,"Interlock Ransomware,C2,Fallback IP",[],NL
+188.245.41.78,EY_TA,100,0,hetzner.com,03/19/26 12:00 AM,"Interlock Ransomware,C2,Fallback IP",[],DE
+179.43.167.210,EY_TA,100,0,privatelayer.com,03/19/26 12:00 AM,"SnappyClient Malware,Exfiltration,C2",[],CH
+103.97.131.44,EY_TA,100,0,qq.com,03/19/26 12:00 AM,"SideWinder APT,Phishing,Payload Host,C2",[],HK
+203.161.50.145,EY_TA,100,0,namecheap.com,03/19/26 12:00 AM,"FancyBear Group,CVE-2023-43770 Exploit,C2,Payload Host",[],US
+60.30.147.18,EY_TA,100,0,chinaunicom.cn,03/20/26 12:00 AM,"Speagle Malware,C2,Infostealer,Backdoor",[],CN
+46.151.182.238,EY_TA,100,0,demenin.net,03/20/26 12:00 AM,"Malware,Final Payload",[],LU
+195.201.104.53,EY_TA,100,2,hetzner.com,03/20/26 12:00 AM,"Malicious VSX Extension,C2",[],DE
+185.163.125.196,EY_TA,100,0,onetsolutions.net,03/20/26 12:00 AM,"WaterPlum Group,C2,Stealer",[],FR
+166.0.184.127,EY_TA,100,0,iana.org,03/20/26 12:00 AM,"PureLog Stealer,C2,Dropper",[],US
+70.18.51.198,EY_TA,100,0,verizon.com,03/20/26 12:00 AM,"EY_IR,BEC,phishing",[],US
+146.255.186.87,EY_TA,100,0,ithostline.com,03/20/26 12:00 AM,"EY_IR,BEC,phishing",[],US
+156.233.1.225,EY_TA,100,0,blsync.com,03/20/26 12:00 AM,"EY_IR,BEC,phishing",[],NL
+166.1.252.129,EY_TA,100,0,iwihost.net,03/20/26 12:00 AM,"EY_IR,BEC,phishing",[],US
+172.120.203.44,EY_TA,100,0,iwihost.net,03/20/26 12:00 AM,"EY_IR,BEC,phishing",[],US
+194.35.127.160,EY_TA,100,0,ithostline.com,03/20/26 12:00 AM,"EY_IR,BEC,phishing",[],US
+45.146.26.140,EY_TA,100,0,ithostline.com,03/20/26 12:00 AM,"EY_IR,BEC,phishing",[],US
+45.149.80.17,EY_TA,100,17,ithostline.com,03/20/26 12:00 AM,"EY_IR,BEC,phishing",[],US
+45.192.35.129,EY_TA,100,0,blsync.com,03/20/26 12:00 AM,"EY_IR,BEC,phishing",[],US
