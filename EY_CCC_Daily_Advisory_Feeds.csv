@@ -32,7 +32,7 @@ Value,Source,EY_Confidence,Confidence,ISP_Domain,lastSeen,Label,Kill Chain Phase
 188.245.41.78,EY_TA,100,0,hetzner.com,03/19/26 12:00 AM,"Interlock Ransomware, C2, Fallback IP",[],DE
 179.43.167.210,EY_TA,100,0,privatelayer.com,03/19/26 12:00 AM,"SnappyClient Malware, Exfiltration, C2",[],CH
 103.97.131.44,EY_TA,100,0,qq.com,03/19/26 12:00 AM,"SideWinder APT,  Phishing, Payload Host, C2",[],HK
-203.161.50.145,EY_TA,100,0,namecheap.com,03/19/26 12:00 AM,"FancyBear Group, CVE-2023-43770 Exploit, C2, Payload Host",[],US
+203.161.50.145,EY_TA,100,0,namecheap.com,03/19/26 12:00 AM,"FancyBear Group, C2, Payload Host",[],US
 60.30.147.18,EY_TA,100,0,chinaunicom.cn,03/20/26 12:00 AM,"Speagle Malware, C2, Infostealer, Backdoor",[],CN
 46.151.182.238,EY_TA,100,0,demenin.net,03/20/26 12:00 AM,"Malware, Final Payload",[],LU
 195.201.104.53,EY_TA,100,2,hetzner.com,03/20/26 12:00 AM,"Malicious VSX Extension, C2",[],DE
