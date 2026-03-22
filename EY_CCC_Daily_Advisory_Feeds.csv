@@ -1,0 +1,16 @@
+Value,Source,EY_Confidence,Confidence,ISP_Domain,lastSeen,Label,Kill Chain Phases,Country_Code
+60.30.147.18,EY_TA,100,1,China Unicom Tianjin province network,03/20/2026 12:00 pm,"Speagle Malware, C2, Infostealer, Backdoor",[],CN
+46.151.182.238,EY_TA,100,12,DEMENIN B.V.,03/20/2026 12:00 pm,"Malware, Final Payload",[],LU
+195.201.104.53,EY_TA,100,11,Hetzner Online GmbH,03/20/2026 12:00 pm,"Malicious VSX Extension, C2",[],DE
+185.163.125.196,EY_TA,100,4,ONETSOLUTIONS SAS,03/20/2026 12:00 pm,"WaterPlum Group, C2, Stealer",[],FR
+166.0.184.127,EY_TA,100,7,Internet Utilities NA LLC,03/20/2026 12:00 pm,"PureLog Stealer, C2, Dropper",[],US
+70.18.51.198,EY_TA,100,0,Verizon Business,03/20/2026 12:00 pm,"EY_IR, BEC, phishing",[],US
+146.255.186.87,EY_TA,100,0,"New York, NY",03/20/2026 12:00 pm,"EY_IR, BEC, phishing",[],US
+156.233.1.225,EY_TA,100,0,IT_HOST_BKPL,03/20/2026 12:00 pm,"EY_IR, BEC, phishing",[],NL
+166.1.252.129,EY_TA,100,0,IWIHOST NET,03/20/2026 12:00 pm,"EY_IR, BEC, phishing",[],US
+172.120.203.44,EY_TA,100,0,IWIHOST NET,03/20/2026 12:00 pm,"EY_IR, BEC, phishing",[],US
+194.35.127.160,EY_TA,100,0,IT Hostline Ltd,03/20/2026 12:00 pm,"EY_IR, BEC, phishing",[],US
+45.146.26.140,EY_TA,100,0,"New York, NY",03/20/2026 12:00 pm,"EY_IR, BEC, phishing",[],US
+45.149.80.17,EY_TA,100,0,"New York, NY",03/20/2026 12:00 pm,"EY_IR, BEC, phishing",[],US
+45.192.35.129,EY_TA,100,0,IT_HOST_BLSYNC,03/20/2026 12:00 pm,"EY_IR, BEC, phishing",[],US
+50.118.198.26,EY_TA,100,0,IWIHOST NET,03/20/2026 12:00 pm,"EY_IR, BEC, phishing",[],US
