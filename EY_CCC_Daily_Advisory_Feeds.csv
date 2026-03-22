@@ -1,5 +1,5 @@
 Value,Source,EY_Confidence,Confidence,ISP_Domain,lastSeen,Label,Kill Chain Phases,Country_Code
-60.30.147.18,EY_TA,100,1,China Unicom Tianjin province network,03/20/2026 12:00 pm,["Speagle Malware", "C2", "Infostealer", "Backdoor"],[],CN
+60.30.147.18,EY_TA,100,1,China Unicom Tianjin province network,03/20/2026 12:00 pm,[Speagle Malware, C2, Infostealer, Backdoor],[],CN
 46.151.182.238,EY_TA,100,12,DEMENIN B.V.,03/20/2026 12:00 pm,"Malware, Final Payload",[],LU
 195.201.104.53,EY_TA,100,11,Hetzner Online GmbH,03/20/2026 12:00 pm,"Malicious VSX Extension, C2",[],DE
 185.163.125.196,EY_TA,100,4,ONETSOLUTIONS SAS,03/20/2026 12:00 pm,"WaterPlum Group, C2, Stealer",[],FR
