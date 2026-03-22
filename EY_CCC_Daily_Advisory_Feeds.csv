@@ -1,2 +1,2 @@
 Value,Source,EY_Confidence,Confidence,ISP_Domain,lastSeen,Label,Kill Chain Phases,Country_Code
-169.255.72.169,EY_TA,100,0,skytic-telecom.cg,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],CG
+169.255.72.169,EY_TA,100,0,skytictelecom.cg,03/17/26 12:00 AM,"RondoDox Botnet,Payload Host,C2",[],CG
